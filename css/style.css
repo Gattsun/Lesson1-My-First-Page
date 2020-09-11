@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(85, 107, 47, 0.623)
+}
+
+ul {
+    list-style-type: square;
+}
+
+img.big-cats {
+    border-radius: 10%;
+}
+hr {
+    width:50%;text-align:left;margin-left:0;
+    border-style: dashed none none;
+    border-width: 0.3rem;
+    border-color: black
+}
